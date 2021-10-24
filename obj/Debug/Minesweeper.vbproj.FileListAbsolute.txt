@@ -1,0 +1,11 @@
+C:\Users\motas\source\repos\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\motas\source\repos\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\motas\source\repos\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\motas\source\repos\Minesweeper\bin\Debug\Minesweeper.xml
+C:\Users\motas\source\repos\Minesweeper\obj\Debug\Minesweeper.vbprojAssemblyReference.cache
+C:\Users\motas\source\repos\Minesweeper\obj\Debug\Minesweeper.Minesweeper.resources
+C:\Users\motas\source\repos\Minesweeper\obj\Debug\Minesweeper.Resources.resources
+C:\Users\motas\source\repos\Minesweeper\obj\Debug\Minesweeper.vbproj.GenerateResource.cache
+C:\Users\motas\source\repos\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\motas\source\repos\Minesweeper\obj\Debug\Minesweeper.xml
+C:\Users\motas\source\repos\Minesweeper\obj\Debug\Minesweeper.pdb
